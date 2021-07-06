@@ -1,5 +1,3 @@
-
-Run codeCopy code
 package main
 import "fmt"
 func main() {
